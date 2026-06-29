@@ -1,0 +1,6 @@
+{
+  "name": "Shop & Wallet",
+  "description": "An elegant Material 3 shop app with full support for managing accounts, adding money, creating products, and purchasing items locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
